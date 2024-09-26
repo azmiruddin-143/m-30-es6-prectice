@@ -375,16 +375,16 @@ person = ["Hlw", "Bangladesh"]
 
 // // / node index.js//
 // object er loop
-let ob ={
-    name: "Azmir",
-    class : "HSC",
-    skils : "Web Developer",
-    selary : 18000
-}
+// let ob ={
+//     name: "Azmir",
+//     class : "HSC",
+//     skils : "Web Developer",
+//     selary : 18000
+// }
 
-let hlw = Object.keys(ob)
-for(let azmir of hlw){
-    let man = ob[azmir]
-    console.log(azmir,man);
-}
+// let hlw = Object.keys(ob)
+// for(let azmir of hlw){
+//     let man = ob[azmir]
+//     console.log(azmir,man);
+// }
 
